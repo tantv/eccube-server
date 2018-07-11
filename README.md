@@ -6,8 +6,25 @@
 ```bash
 git clone https://github.com/tantv/eccube-server.git
 ```
+2 . Install dependencies
 
-2 . Change `db.json` to **your own content** according to the [`json-server example`](https://github.com/typicode/json-server#example) and then `commit` your changes to git.
+```bash
+npm install
+```
+
+3 . Start server
+
+```bash
+npm start
+```
+
+4 . Open on local
+
+```bash
+http://localhost:3000/
+```
+
+5 . Change `db.json` to **your own content** according to the [`json-server example`](https://github.com/typicode/json-server#example) and then `commit` your changes to git.
 
 _this example will create `/products` route , each resource will have `id`, `name` and `category`.
 ```json
