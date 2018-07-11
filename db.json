@@ -9,6 +9,11 @@
       "id" : 2,
       "name": "Product Name 2",
       "category" : "Category 2"
+    },
+    {
+      "id" : 3,
+      "name": "Test auto deploy",
+      "category" : "Category 3"
     }
   ]
 }
