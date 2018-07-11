@@ -1,16 +1,14 @@
 {
-  "posts":[
+  "products":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id" : 1,
+      "name": "Product Name 1",
+      "category" : "Category 1"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id" : 2,
+      "name": "Product Name 2",
+      "category" : "Category 2"
     }
   ]
 }
